@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<familytree familyName="Alaouite dynasty">
+   <generation id="0">
+      <personne estroi="True" ref="01">
+         <nomcomplet>Moulay Ali Cherif</nomcomplet>
+      </personne>
+      <parent link=""/>
+   </generation>
+   <generation id="1">
+      <personne estroi="False" ref="11">
+         <nomcomplet>Mohammed I</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="12">
+         <nomcomplet>Ismail</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="13">
+         <nomcomplet>Rachid</nomcomplet>
+      </personne>
+      <parent link="01"/>
+   </generation>
+   <generation id="2">
+      <personne estroi="False" ref="21">
+         <nomcomplet>Ahmad</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="22">
+         <nomcomplet>Abdul Malek</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="23">
+         <nomcomplet>Abdallah II</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="24">
+         <nomcomplet>Mohammed II</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="25">
+         <nomcomplet>Al-Mustadi'</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="26">
+         <nomcomplet>Zin al-Abidin</nomcomplet>
+      </personne>
+      <parent link="12"/>
+   </generation>
+   <generation id="3">
+      <personne estroi="True" ref="31">
+         <nomcomplet>Mohammed III</nomcomplet>
+      </personne>
+      <parent link="23"/>
+   </generation>
+   <generation id="4">
+      <personne estroi="False" ref="41">
+         <nomcomplet>Al-Yazid</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="42">
+         <nomcomplet>Hisham</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="43">
+         <nomcomplet>Sulayman</nomcomplet>
+      </personne>
+      <parent link="31"/>
+   </generation>
+   <generation id="5">
+      <personne estroi="True" ref="51">
+         <nomcomplet>Abd al-Rahman ibn Hicham</nomcomplet>
+      </personne>
+      <parent link="42"/>
+   </generation>
+   <generation id="6">
+      <personne estroi="True" ref="61">
+         <nomcomplet>Mohammed IV</nomcomplet>
+      </personne>
+      <parent link="51"/>
+   </generation>
+   <generation id="7">
+      <personne estroi="True" ref="71">
+         <nomcomplet>Hassan I</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="72">
+         <nomcomplet>Aarafa</nomcomplet>
+      </personne>
+      <parent link="61"/>
+   </generation>
+   <generation id="8">
+      <personne estroi="False" ref="81">
+         <nomcomplet>Abd al-Aziz</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="82">
+         <nomcomplet>Abd al-Hafid</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="83">
+         <nomcomplet>Youssef</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="84">
+         <nomcomplet>Tahar</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="85">
+         <nomcomplet>Mohammed Ben Aarafa</nomcomplet>
+      </personne>
+      <parent link="71"/>
+   </generation>
+   <generation id="9">
+      <personne estroi="True" ref="91">
+         <nomcomplet>Mohammed V  </nomcomplet>
+      </personne>
+      <parent link="83"/>
+   </generation>
+   <generation id="10">
+      <personne estroi="False" ref="101">
+         <nomcomplet>Lalla Fatima Zohra</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="102">
+         <nomcomplet>Lalla Amina</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="103">
+         <nomcomplet>Hassan II </nomcomplet>
+      </personne>
+      <personne estroi="False" ref="104">
+         <nomcomplet>Lalla Malika</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="105">
+         <nomcomplet>Lalla Nuzha</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="106">
+         <nomcomplet>Lalla Aicha</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="107">
+         <nomcomplet>Abdellah</nomcomplet>
+      </personne>
+      <parent link="91"/>
+   </generation>
+   <generation id="11">
+      <personne estroi="False" ref="111">
+         <nomcomplet>Lalla Meryem</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="112">
+         <nomcomplet>Lalla Asma</nomcomplet>
+      </personne>
+      <personne estroi="True" ref="113">
+         <nomcomplet>Mohammed VI</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="114">
+         <nomcomplet>Lalla Hasna</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="115">
+         <nomcomplet>Rachid</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="116">
+         <nomcomplet>Hicham</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="117">
+         <nomcomplet>Ismail</nomcomplet>
+      </personne>
+      <parent link="103"/>
+   </generation>
+   <generation id="12">
+      <personne estroi="False" ref="121">
+         <nomcomplet>Crown Prince Hassan</nomcomplet>
+      </personne>
+      <personne estroi="False" ref="122">
+         <nomcomplet>Lalla Khadija</nomcomplet>
+      </personne>
+      <parent link="113"/>
+   </generation>
+</familytree>
